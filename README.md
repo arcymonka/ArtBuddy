@@ -1,7 +1,6 @@
 # ArtBuddy Chatbot
 
-A FastAPI-based chatbot designed to capture and archive local art-scene knowledge through conversation, leveraging Graphiti for dynamic knowledge graph memory.
-
+ArtBuddy is a conversational AI tool for community-driven cultural archiving, shortlisted in [the 1st UN Citiverse Challenge](https://www.itu.int/metaverse/virtual-worlds/1st-un-citiverse-challenge/about/). It transforms everyday chats into a time-stamped Neo4j knowledge graph, using real-time entity extraction, provenance tracking, and an agentic layer to help communities preserve local cultural knowledge.
 
 ## Setup
 
