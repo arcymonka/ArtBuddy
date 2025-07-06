@@ -1,6 +1,6 @@
 # ArtBuddy Chatbot
 
-ArtBuddy is a conversational AI tool for community-driven cultural archiving, shortlisted in [the 1st UN Citiverse Challenge](https://www.itu.int/metaverse/virtual-worlds/1st-un-citiverse-challenge/about/). It transforms everyday chats into a time-stamped Neo4j knowledge graph, using real-time entity extraction, provenance tracking, and an agentic layer to help communities preserve local cultural knowledge.
+ArtBuddy is a conversational AI tool for community-driven cultural archiving, shortlisted in the initial round of [the 1st UN Citiverse Challenge](https://www.itu.int/metaverse/virtual-worlds/1st-un-citiverse-challenge/about/). It transforms everyday chats into a time-stamped Neo4j knowledge graph, using real-time entity extraction, provenance tracking, and an agentic layer to help communities preserve local cultural knowledge.
 
 ## Setup
 
